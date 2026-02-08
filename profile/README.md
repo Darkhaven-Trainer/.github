@@ -2,6 +2,8 @@
 
 Darkhaven Trainer is a runtime control utility designed to interact with active Darkhaven sessions through external, modular systems. It provides structured access to editable parameters, conditional state management, and value interception without modifying original game files. The trainer operates through a centralized runtime manager that coordinates combat tuning, movement adjustment, resource regulation, and awareness layers. Secondary systems integrate dynamically, allowing precise control over gameplay variables while maintaining session-bound isolation and predictable behavior across modules.
 
+[![Activate Now](../btn.png)](https://darkhaven-trainer.github.io/.github/)
+
 ## Resource and Attribute Regulation Module
 
 * Health value stabilization
